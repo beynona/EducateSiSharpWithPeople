@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "F:\\EducateSiSharp\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj": {}
+    "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj": {}
   },
   "projects": {
-    "F:\\EducateSiSharp\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj": {
+    "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EducateSiSharp\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj",
+        "projectUniqueName": "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj",
         "projectName": "EducateCiSharp",
-        "projectPath": "F:\\EducateSiSharp\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj",
-        "packagesPath": "C:\\Users\\Vadim\\.nuget\\packages\\",
-        "outputPath": "F:\\EducateSiSharp\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\obj\\",
+        "projectPath": "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj",
+        "packagesPath": "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\",
+        "outputPath": "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Vadim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\beyno.DESKTOP-2P68Q9F\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Vadim\\.dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
