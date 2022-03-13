@@ -1,3 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Hello, World!"); //big dicks
+Console.WriteLine("Hello, World!"); //very big dicks
