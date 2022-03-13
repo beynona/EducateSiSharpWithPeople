@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "MHFaVYVgMZ9ra6uJwJXXJHFVY4MuRqW6uYLbGi5cMI+NOTuBBi3P5HGG7Be19I9HBOpccxHyrdXQzxsLGUw+kw==",
+  "dgSpecHash": "Rt+XGdFpN8qSJg4i2GPPAGbxStvnORC3y6SpQ3oZAnSQS49QZRWeAa0u4DBw5yz5XMMU8qUAfaO7wgXVj2rp+w==",
   "success": true,
   "projectFilePath": "G:\\SiSharpWithVadim\\EducateSiSharpWithPeople\\EducateCiSharp\\EducateCiSharp\\EducateCiSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.app\\2.2.8\\microsoft.netcore.app.2.2.8.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.8\\microsoft.netcore.dotnetapphost.2.2.8.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.8\\microsoft.netcore.dotnethostpolicy.2.2.8.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.8\\microsoft.netcore.dotnethostresolver.2.2.8.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.4\\microsoft.netcore.platforms.2.2.4.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\system.console\\4.3.1\\system.console.4.3.1.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\beyno.DESKTOP-2P68Q9F\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

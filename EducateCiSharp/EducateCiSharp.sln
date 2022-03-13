@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducateCiSharp", "EducateCiSharp\EducateCiSharp.csproj", "{76E2C604-AC0A-46D6-ADD2-06C96249E76B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "First\First.csproj", "{F1E03CE7-8A19-4503-A065-B085564D95B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{76E2C604-AC0A-46D6-ADD2-06C96249E76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76E2C604-AC0A-46D6-ADD2-06C96249E76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76E2C604-AC0A-46D6-ADD2-06C96249E76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76E2C604-AC0A-46D6-ADD2-06C96249E76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E03CE7-8A19-4503-A065-B085564D95B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E03CE7-8A19-4503-A065-B085564D95B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E03CE7-8A19-4503-A065-B085564D95B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E03CE7-8A19-4503-A065-B085564D95B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
